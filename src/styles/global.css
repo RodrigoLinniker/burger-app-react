@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-button-disabled {
+  @apply opacity-40 cursor-not-allowed;
+}
